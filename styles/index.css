@@ -74,7 +74,7 @@ h1,h2,h3,h4{font-family:var(--font-heading);margin:0;}
 .education li{display:flex;gap:12px;padding:10px 0;border-left:3px solid var(--primary);padding-left:14px;font-size:.95rem}
 .education li span{color:#aaa;font-size:.85rem;flex-shrink:0}
 .soft-skills{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin-top:30px}
-.skill-badge{background:var(--primary);color:#000;padding:8px 14px;border-radius:12px;font-size:.9rem;font-weight:600;transition:.3s}
+.skill-badge{background:var(--primary);color:#ffffff;padding:8px 14px;border-radius:12px;font-size:.9rem;font-weight:600;transition:.3s}
 .skill-badge:hover{background:rgba(255,255,255,.8);color:#000;transform:scale(1.05)}
 
 /* RESPONSIVE TABLETTE / MOBILE */
